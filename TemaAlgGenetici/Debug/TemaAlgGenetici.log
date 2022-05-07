@@ -1,0 +1,6 @@
+﻿  TemaAlgGenetici.cpp
+D:\Projects\TemaAlgGenetici\TemaAlgGenetici.cpp(34,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Projects\TemaAlgGenetici\TemaAlgGenetici.cpp(38,14): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+D:\Projects\TemaAlgGenetici\TemaAlgGenetici.cpp(230,21): warning C4018: '<': signed/unsigned mismatch
+D:\Projects\TemaAlgGenetici\TemaAlgGenetici.cpp(234,22): warning C4018: '<': signed/unsigned mismatch
+  TemaAlgGenetici.vcxproj -> D:\Projects\TemaAlgGenetici\Debug\TemaAlgGenetici.exe
